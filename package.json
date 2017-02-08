@@ -1,0 +1,22 @@
+{
+  "name": "andy",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.android.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "andy.lee",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.41.2"
+  }
+}
